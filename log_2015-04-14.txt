@@ -1,0 +1,54 @@
+matt@matt-pi:~/Desktop/scanner/andysworld $ sudo python __init__.py 
+[sudo] password for matt: 
+Initializing audio...
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+audio_primer already running!
+Starting threads...
+Spawn scan thread 0
+Spawn scan thread 1
+Spawn scan thread 2
+
+> HIT ENTER TO EXIT <
+
+Capture thread started
+Scan thread started
+Scan thread started
+Say thread started
+Scan thread started
+Playing WAVE 'namewavs/arunanba.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/adbooth.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/avachai.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/ychen38.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/woosukch.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/wjclark.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/radebort.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/kevindug.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/zbesmael.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/mrferris.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/korbengr.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/mthoward.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/nolanfos.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/khsu7.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/zhenrong.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/ndhutchi.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/wendyjan.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/sethkara.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/seongsuk.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/james_lacour.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/alimahmo.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/shawnmil.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/japeacoc.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/mrathbun.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/jacobrut.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/tjschout.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/rshannon.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/emvane.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/mywinnic.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/baoxu.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+Playing WAVE 'namewavs/ledongya.wav' : Signed 32 bit Little Endian, Rate 192000 Hz, Stereo
+
+Terminating threads...
+Exiting...
+matt@matt-pi:~/Desktop/scanner/andysworld $  
